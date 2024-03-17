@@ -8,7 +8,7 @@ from langchain.chains import SequentialChain
 from langchain.memory import ConversationBufferMemory
 
 # Integrate our OpenAI key
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = "sk-*****1szfyO1M9wcZvMT3BlbkFJJr22yYNcULHxQv####"
 
 # Using steramlit instead of flask (for textbox UI)
 import streamlit as st

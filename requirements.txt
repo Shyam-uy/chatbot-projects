@@ -2,3 +2,7 @@ openai
 langchain
 streamlit
 altair==4.0
+huggingface_hub
+PyPDF2
+faiss-cpu
+tiktoken
